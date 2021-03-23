@@ -1,7 +1,7 @@
 .container {
   text-align: center;
   width: 500px;
-  height: 700px;
+  height: 800px;
   margin-left: 250px;
   margin-top: 40px;
   padding-left: 30px;
@@ -14,6 +14,7 @@
   width: 150px;
   height: 25px;
   margin-top: 30px;
+  box-shadow: black;
 }
 
 #weight-guide {
@@ -43,12 +44,14 @@ button {
 
 h1 {
   font-weight: bolder;
-  font-size: 45px;
+
+  font-size: 55px;
   padding-left: 15px;
   padding-top: 25px;
 }
 footer {
   font-family: Georgia, serif;
+  text-align: center;
 }
 img {
   height: 10rem;
