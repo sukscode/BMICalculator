@@ -1,11 +1,12 @@
 .container {
+  text-align: center;
   width: 500px;
-  height: 600px;
-  margin-left: 350px;
-  margin-top: 65px;
+  height: 700px;
+  margin-left: 250px;
+  margin-top: 40px;
   padding-left: 30px;
   font-family: cursive;
-  background-image: url(undraw_working_out_6psf.svg);
+  background-color: antiquewhite;
 }
 
 #height,
@@ -16,6 +17,7 @@
 }
 
 #weight-guide {
+  text-align: center;
   margin-left: 75px;
   margin-top: 25px;
   /* opacity: 0%; */
@@ -47,4 +49,8 @@ h1 {
 }
 footer {
   font-family: Georgia, serif;
+}
+img {
+  height: 10rem;
+  width: 30rem;
 }
